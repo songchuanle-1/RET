@@ -1,1 +1,1 @@
-# code will release soon.
+# code will be released soon.
